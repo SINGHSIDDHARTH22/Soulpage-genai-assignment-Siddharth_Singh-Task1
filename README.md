@@ -13,7 +13,7 @@ This project implements a multi-agent workflow using **LangGraph** to perform au
 
 1.  **Install Python Dependencies:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r requirements-2.txt
     ```
 
 2.  **Prepare the Model:**
@@ -28,4 +28,4 @@ This project implements a multi-agent workflow using **LangGraph** to perform au
 
 Execute the main script:
 ```bash
-python task1_agent.py
+python main_task1.py
