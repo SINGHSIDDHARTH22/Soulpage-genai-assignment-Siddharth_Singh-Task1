@@ -32,4 +32,4 @@ python main_task1.py
 ```
 ## If you are not able to execute the statements just copy-paste the below code in a notebook.
 
-Assignment_soulpage_task1.ipynb
+Assignment_soulpage_task1.ipynb (For results also please refer to this file)
