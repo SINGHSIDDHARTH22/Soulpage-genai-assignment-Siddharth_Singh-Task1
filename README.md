@@ -29,3 +29,7 @@ This project implements a multi-agent workflow using **LangGraph** to perform au
 Execute the main script:
 ```bash
 python main_task1.py
+```
+## If you are not able to execute the statements just copy-paste the below code in a notebook.
+
+Assignment_soulpage_task1.ipynb
